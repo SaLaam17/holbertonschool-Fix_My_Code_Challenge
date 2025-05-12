@@ -18,7 +18,7 @@ def fizzbuzz(n):
     tmp_result = []
     for i in range(1, n + 1):
         """
-        Inversion of the content of if and the fisrt elif condition
+        Inversion of the content of if and the first elif condition
         in the code to be fixed.
         We have to check if n can be divided by 3 and 5 first.
         """

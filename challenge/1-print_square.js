@@ -16,7 +16,7 @@ if (process.argv.length <= 2) {
   In the line: parseInt(process.argv[2], 16), 16 means hexadecimal.
   Which is the wrong base to use.
   We have to use base 10 instead, which means decimal.
-  size has no type declaration in the code to be fixed
+  Size has no type declaration in the code to be fixed
 */
 let size = parseInt(process.argv[2], 10)
 
